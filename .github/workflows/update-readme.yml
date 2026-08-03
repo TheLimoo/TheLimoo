@@ -1,0 +1,50 @@
+name: 🔄 Update README Stats
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Update snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: TheLimoo
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          config: |
+            {
+              "head_color": "#5E6AD2",
+              "tail_color": "#7170FF",
+              "body_color": "#828FFF",
+              "animation_duration": "4s",
+              "animation_delay": "0.5s",
+              "show_animation": true
+            }
+
+      - name: 📊 Update profile views badge (optional)
+        run: |
+          # This is handled by komarev.com/ghpvc automatically
+          echo "Profile views handled externally"
+
+      - name: 📤 Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+          git diff --staged --quiet || git commit -m "🔄 Auto-update README assets [skip ci]"
+          git push
