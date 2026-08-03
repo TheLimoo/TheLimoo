@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 4" width="1200" height="4">
+  <defs>
+    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#08090A" />
+      <stop offset="10%" stop-color="#5E6AD2" />
+      <stop offset="30%" stop-color="#7170FF" />
+      <stop offset="50%" stop-color="#828FFF" />
+      <stop offset="70%" stop-color="#7170FF" />
+      <stop offset="90%" stop-color="#5E6AD2" />
+      <stop offset="100%" stop-color="#08090A" />
+    </linearGradient>
+    <filter id="neonGlow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="neonGlowStrong" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#neonGradient)" filter="url(#neonGlow)" />
+  <animate attributeName="opacity" values="1;0.6;1" dur="3s" repeatCount="indefinite" />
+</svg>
