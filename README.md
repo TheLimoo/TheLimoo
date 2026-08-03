@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5E6AD2,7170FF,828FFF&height=200&section=header&animation=fadeIn&fontAlignY=35&desc=Welcome+to+my+digital+playground&descAlignY=55&descAlign=50&fontColor=D0D6E0&fontSize=28" alt="Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=08090A,0F1011,191A1B,5E6AD2,7170FF,828FFF&height=200&section=header&animation=fadeIn&fontAlignY=35&desc=Digital+playground+%7C+Dark+mode+native&descAlignY=55&descAlign=50&fontColor=D0D6E0&fontSize=28&fontAlign=50" alt="Header Wave" />
 </p>
 
 ---
 
 <div align="center">
 
-### 🎮 **Interactive Stuff**
+### 🎮 **GitHub Activity**
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLimoo&show_icons=false&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub+Stats&title_color=5E6AD2&text_color=D0D6E0&bg_color=08090A&border_radius=12" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheLimoo&show_icons=false&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub+Stats&title_color=5E6AD2&text_color=D0D6E0&bg_color=08090A&border_radius=12&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p>
@@ -32,29 +32,11 @@
 
 <div align="center">
 
-### 🛠️ **Stack**
-
-<img src="https://skillicons.dev/icons?i=python,kotlin,js,ts,go,rust,nodejs,express,fastapi,sqlite,postgres,redis,docker,railway,cloudflare,githubactions,linux,nginx&theme=dark&perline=12" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Xray--Core-1F1F1F?style=for-the-badge&logo=xray&logoColor=white" />
-<img src="https://img.shields.io/badge/Reality-000000?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/VLESS-000000?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-<img src="https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🤖 **Bots & Projects**
+### 🤖 **Pinned Repositories**
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheLimoo&repo=telegram-leecher&theme=tokyonight&hide_border=true&bg_color=08090A&title_color=5E6AD2&icon_color=5E6AD2&text_color=D0D6E0" width="300" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheLimoo&repo=telegram-android-custom&theme=tokyonight&hide_border=true&bg_color=08090A&title_color=5E6AD2&icon_color=5E6AD2&text_color=D0D6E0" width="300" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheLimoo&repo=limoo&theme=tokyonight&hide_border=true&bg_color=08090A&title_color=5E6AD2&icon_color=5E6AD2&text_color=D0D6E0" width="300" /> |
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheLimoo&repo=telegram-leecher&theme=tokyonight&hide_border=true&bg_color=08090A&title_color=5E6AD2&icon_color=5E6AD2&text_color=D0D6E0&border_radius=12" width="300" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheLimoo&repo=telegram-android-custom&theme=tokyonight&hide_border=true&bg_color=08090A&title_color=5E6AD2&icon_color=5E6AD2&text_color=D0D6E0&border_radius=12" width="300" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheLimoo&repo=limoo&theme=tokyonight&hide_border=true&bg_color=08090A&title_color=5E6AD2&icon_color=5E6AD2&text_color=D0D6E0&border_radius=12" width="300" /> |
 
 </div>
 
@@ -62,7 +44,7 @@
 
 <div align="center">
 
-### 🐍 **Snake Game** *(auto-updated daily)*
+### 🐍 **Snake Game** *(auto-updated daily via GitHub Actions)*
 
 <p>
   <a href="https://github.com/TheLimoo/TheLimoo/actions/workflows/snake.yml">
@@ -70,7 +52,7 @@
   </a>
 </p>
 
-<sub>🟢 Head: <b style="color:#5E6AD2">#5E6AD2</b> • Body: <b style="color:#7170FF">#7170FF</b> • Tail: <b style="color:#828FFF">#828FFF</b></sub>
+<sub>🟢 Head: <b style="color:#5E6AD2">#5E6AD2</b> • Body: <b style="color:#7170FF">#7170FF</b> • Tail: <b style="color:#828FFF">#828FFF</b> — Linear color palette</sub>
 
 </div>
 
@@ -78,40 +60,13 @@
 
 <div align="center">
 
-### 📊 **Vibe Check**
-
-| Metric | Status |
-|--------|--------|
-| Proxy panels on Railway | 🟢 Running |
-| Telegram bots (Telethon) | 🟢 Active |
-| Android builds (GitHub Actions) | 🟢 Building |
-| Novel translation pipeline | 🟢 Processing |
-| Open source contributions | 🟢 Ongoing |
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 **Connect**
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheLimoo)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheLimoo)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 **Current Focus**
+### 📊 **Current Focus**
 
 ```text
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░  52%  Proxy infrastructure
-▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░  40%  Telegram automation
-▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░  25%  Android/Kotlin
-▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  15%  Literary translation
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░  52%  Proxy infrastructure (Railway + Xray)
+▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░  40%  Telegram automation (Telethon bots)
+▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░  25%  Android/Kotlin (GitHub Actions CI/CD)
+▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  15%  Literary translation (EN→FA pipeline)
 ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  05%  Everything else
 ```
 
@@ -164,16 +119,22 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5E6AD2,7170FF&height=100&section=footer&animation=fadeIn&fontAlignY=35&desc=Thanks+for+stopping+by!&descAlignY=55&descAlign=50&fontColor=D0D6E0" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=08090A,0F1011,191A1B,5E6AD2,7170FF&height=100&section=footer&animation=fadeIn&fontAlignY=35&desc=Thanks+for+stopping+by!&descAlignY=55&descAlign=50&fontColor=D0D6E0" alt="Footer Wave" />
 </p>
 
 <!--
-  ██████╗  ██████╗ ██████╗ ███████╗███████╗███████╗
-  ██╔══██╗██╔═══██╗██╔══██╗██╔════╝██╔════╝██╔════╝
-  ██████╔╝██║   ██║██████╔╝█████╗  ███████╗█████╗  
-  ██╔═══╝ ██║   ██║██╔══██╗██╔══╝  ╚════██║██╔══╝  
-  ██║     ╚██████╔╝██║  ██║███████╗███████║███████╗
-  ╚═╝      ╚═════╝ ╚═╝  ╚══════╝╚══════╝╚══════╝
+  Color Palette (Linear-inspired):
+  ─────────────────────────────────
+  Background:     #08090A (Marketing Black)
+  Panel:          #0F1011 (Panel Dark)  
+  Surface:        #191A1B (Level 3 Surface)
+  Primary Text:   #F7F8F8 (Near White)
+  Secondary Text: #D0D6E0 (Silver Gray)
+  Muted Text:     #8A8F98 (Tertiary Gray)
+  Accent:         #5E6AD2 (Brand Indigo)
+  Accent Hover:   #7170FF (Accent Violet)
+  Accent Light:   #828FFF (Accent Hover)
+  Border:         rgba(255,255,255,0.08)
   
   Generated with ❤️ | Powered by GitHub Actions
 -->
