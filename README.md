@@ -22,24 +22,6 @@
 
 <div align="center">
 
-### 🐍 **Snake Game** *(auto-updated daily)*
-
-<p>
-  <a href="https://github.com/TheLimoo/TheLimoo/actions/workflows/snake.yml">
-    <img src="https://github.com/TheLimoo/TheLimoo/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-  </a>
-</p>
-
-<sub>🟢 Head: <b style="color:#5E6AD2">#5E6AD2</b> • Body: <b style="color:#7170FF">#7170FF</b> • Tail: <b style="color:#828FFF">#828FFF</b></sub>
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheLimoo/TheLimoo/main/assets/neon-divider.svg" alt="Neon Divider" width="100%" />
-</p>
-
-<div align="center">
-
 ### 📊 **Current Focus**
 
 ```text
@@ -96,7 +78,7 @@
 
 **Philosophy:** Minimal, native, single-file solutions. No bloat. Kill all processes before running. Autonomous execution.
 
-</div>
+</details>
 
 ---
 
